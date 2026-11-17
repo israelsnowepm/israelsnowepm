@@ -25,9 +25,9 @@
 
 ## Side projects
 
-- 💸 **[Giveable](https://github.com/israelsnowepm/giveable.ca)** — a payroll-giving platform where employees donate to registered charities straight from their paycheck. Next.js, Supabase, Stripe Connect. Built solo with Claude Code.
+- 🐘 **CoCo** (*COmpagnon de COnversation*) — a live voice web app where kids practise spoken French with an elephant character. It praises first, then gently corrects, with strict guardrails and parent supervision. Kid profiles by age, vocabulary missions picked by the parent, and pronunciation scores that go to a parent dashboard and are never used to scold the child. Built on Supabase and Netlify, and used daily at home. Homeschooling families who've tried it asked for access. **Next:** improving speech recognition for children's voices, then a language-pack architecture so Spanish (Paco 🐆) and Thai (Mali 🐈) cousins can share one codebase.
+- 💸 **Giveable** — a payroll-giving platform where employees donate to registered charities straight from their paycheck. Next.js, Supabase, Stripe Connect. Built solo with Claude Code.
 - 🩰 **Upstaged** — a competitive board game I'm designing, with a headless Node.js simulation engine that batch-tests strategies for balance.
-- 🗣️ **CoCo** — a French-practice voice chatbot for kids, with guardrails and gentle "compliment, then correct" replies.
 - 🤖 **job-agent** — automation that pulls job postings from Greenhouse, Lever and Ashby and filters them by fit.
 
 ## Toolkit
